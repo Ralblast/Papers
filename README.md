@@ -9,7 +9,7 @@ A personal collection of landmark research papers that shaped the world of Artif
 ## 📄 Contents
 
 ###  AI & Deep Learning
-- **[GPT-2: Language Models are Unsupervised Multitask Learners](papers/GPT-2_Paper.pdf)**
+- **[GPT-2: Language Models are Unsupervised Multitask Learners]([papers/GPT-2_Paper.pdf](https://github.com/Ralblast/Papers/blob/main/bitcoin.pdf))**
   - *By OpenAI (2019)*
   - Introduces large-scale transformer-based language models that can perform multiple NLP tasks without explicit supervision.
 
