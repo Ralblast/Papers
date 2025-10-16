@@ -40,12 +40,12 @@ This repository is intended for:
 
 ---
 
-## 🧑💻 Author
+## 💻 Author
 **Abhishek Singh**  
-Computer Science Student | AI & Software Engineering Enthusiast  
+Computer Science Student | Software Engineering Enthusiast  
 📍 India  
 
-> _"Learning deeply, one paper at a time."_ ✨
+> _"Learning deeply, one paper at a time."_ 
 
 ---
 
