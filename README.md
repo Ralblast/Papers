@@ -1,4 +1,3 @@
-```md
 # 🧠 Research Papers Archive
 
 A personal collection of landmark research papers that shaped the world of Artificial Intelligence, Cryptography, and Modern Computing.
@@ -32,18 +31,16 @@ This repository is intended for:
 
 ## 🗂️ Folder Structure
 ```
-
 📦 research-papers-archive
-┣ 📂 papers
-┃ ┣ 📄 GPT-2_Paper.pdf
-┃ ┗ 📄 Bitcoin_Whitepaper.pdf
-┗ 📄 README.md
-
+ ┣ 📂 papers
+ ┃ ┣ 📄 GPT-2_Paper.pdf
+ ┃ ┗ 📄 Bitcoin_Whitepaper.pdf
+ ┗ 📄 README.md
 ```
 
 ---
 
-## 🧑‍💻 Author
+## 🧑💻 Author
 **Abhishek Singh**  
 Computer Science Student | AI & Software Engineering Enthusiast  
 📍 India  
@@ -60,4 +57,4 @@ If you'd like to suggest an iconic paper (AI, Systems, Blockchain, etc.), feel f
 ## 🪄 License
 All papers belong to their respective authors and publishers.  
 This repository is for **educational and research purposes only**.
-```
+
