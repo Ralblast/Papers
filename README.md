@@ -8,15 +8,16 @@ A personal collection of landmark research papers that shaped the world of Artif
 
 ## 📄 Contents
 
-###  AI & Deep Learning
-[Bitcoin: A Peer-to-Peer Electronic Cash System](https://github.com/Ralblast/Papers/blob/main/bitcoin.pdf)
+### 🧩 AI & Deep Learning
+- **[GPT-2: Language Models are Unsupervised Multitask Learners](https://github.com/Ralblast/Papers/blob/main/language_models_are_unsupervised_multitask_learners.pdf)**
   - *By OpenAI (2019)*
   - Introduces large-scale transformer-based language models that can perform multiple NLP tasks without explicit supervision.
 
-###  Blockchain & Cryptography
-- **[Bitcoin: A Peer-to-Peer Electronic Cash System](papers/Bitcoin_Whitepaper.pdf)**
+### 💰 Blockchain & Cryptography
+- **[Bitcoin: A Peer-to-Peer Electronic Cash System](https://github.com/Ralblast/Papers/blob/main/bitcoin.pdf)**
   - *By Satoshi Nakamoto (2008)*
   - The original paper introducing blockchain technology and the foundation of decentralized digital currency.
+
 
 ---
 
